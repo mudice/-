@@ -9,19 +9,19 @@
 ### 以中医辩证为格式规范
 以\<zybz> \</zybz>标记中医辩证的范围，可以是整篇文档，也可以是一个段落
 ### 每个案例
-以<case> </case>或<c></c>标记每个案例。案例应该包括在中医辩证段落中。
+以\<case> \</case>或\<c>\</c>标记每个案例。案例应该包括在中医辩证段落中。
 ### 性别、年龄， 可选项
-分别以<sex></sex>和<age></age>标记性别和年龄，包含在案例中。
+分别以\<sex>\</sex>和\<age>\</age>标记性别和年龄，包含在案例中。
 ### 病证
-以<decease></decease> 或 <d></d>标记病证，包含在案例中。
+以\<decease>\</decease> 或 \<d>\</d>标记病证，包含在案例中。
 ### 病症
-以<symbol></symbol> 或<s></s>标记病症，包含在案例中。
+以\<symbol>\</symbol> 或\<s>\</s>标记病症，包含在案例中。
 ### 处方
-以<prescription></prescription>或<p></p>标志处方，包含在案例中。
+以\<prescription>\</prescription>或\<p>\</p>标志处方，包含在案例中。
 ### 药
-以<medicine></medicine>或<m></m>标记用药，包含在处方中。
+以\<medicine>\</medicine>或\<m>\</m>标记用药，包含在处方中。
 ### 穴位
-以<aucpoint></aucpoint>或<auc></auc>标记选取穴位，包含在处方中。
+以\<aucpoint>\</aucpoint>或\<auc>\</auc>标记选取穴位，包含在处方中。
 
 # 预处理
 基于案例生成数据库
